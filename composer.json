@@ -1,0 +1,15 @@
+{
+    "name": "maxbethke/fizzbuzz",
+    "description": "Learning TDD using the classic fizzbuzz kata",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "authors": [
+        {
+            "name": "Maximilian Bethke",
+            "email": "git@maxbethke.de"
+        }
+    ],
+    "require": {}
+}
