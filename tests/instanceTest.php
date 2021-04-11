@@ -2,7 +2,7 @@
 
 namespace FizzBuzz\Tests;
 
-require("src/fizzBuzz.php");
+require_once("src/fizzBuzz.php");
 
 use PHPUnit\Framework\TestCase;
 use FizzBuzz\App\FizzBuzz;

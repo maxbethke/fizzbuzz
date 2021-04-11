@@ -2,4 +2,8 @@
 
 namespace FizzBuzz\App;
 
-class FizzBuzz {}
+class FizzBuzz {
+    public function convertChar($char) {
+        return strval($char);
+    }
+}
